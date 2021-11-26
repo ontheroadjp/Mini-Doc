@@ -6,12 +6,12 @@ module.exports = {
         ['meta', { name: 'og:type', content: 'website' }],
         ['meta', { name: 'og:title', content: 'Mini Doc' }],
         ['meta', { name: 'og:description', content: 'Simple and Useful Application' }],
-        ['meta', { name: 'og:image', content: 'https://ontheroadjp.github.io/Mini-Doc/images/main.jpg' }],
+        ['meta', { name: 'og:image', content: 'https://user-images.githubusercontent.com/11689129/143543636-a9def72b-544a-4e31-9e6a-239e3c0424f4.png' }],
         ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
         ['meta', { name: 'twitter:site', content: '@te_ontheroad_jp' }],
         ['meta', { name: 'twitter:title', content: 'Mini Doc' }],
         ['meta', { name: 'twitter:description', content: 'Simple and Useful Application' }],
-        ['meta', { name: 'twitter:image', content: 'https://ontheroadjp.github.io/Mini-Doc/images/main.jpg' }],
+        ['meta', { name: 'twitter:image', content: 'https://user-images.githubusercontent.com/11689129/143543636-a9def72b-544a-4e31-9e6a-239e3c0424f4.png' }],
     ],
     locales: {
         '/': {
